@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../UI/ASSET/lock_icon.png</file>
+        <file>../UI/ASSET/unlock_icon.png</file>
+        <file>../UI/ASSET/red.jpg</file>
+        <file>../UI/ASSET/carlock.jpg</file>
+        <file>../UI/ASSET/search.jpg</file>
+        <file>HVACComponent.qml</file>
+        <file>../UI/ASSET/audio icon.png</file>
+        <file>../UI/ASSET/images mm.png</file>
+        <file>../UI/ASSET/pngwing.com.png</file>
+        <file>../UI/ASSET/Sssss.png</file>
+        <file>../UI/ASSET/Song.png</file>
+        <file>../UI/ASSET/mmuussiicc.png</file>
+        <file>../UI/ASSET/service.png</file>
+        <file>../UI/ASSET/youtube.png</file>
+    </qresource>
+</RCC>
